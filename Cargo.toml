@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "rust/libnewsboat",
+    "rust/libnewsboat-ffi",
+    "rust/strprintf",
+    "rust/regex-rs",
+    "rust/http-test-server",
+]
+resolver = "3"
